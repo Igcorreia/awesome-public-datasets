@@ -83,7 +83,7 @@ Biology
         
 * |OK_ICON| `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
         
-* |FIXME_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
+* |FIXME_ICON| `Journal of Cell Biology DataViewer <https://rupress.org/jcb/pages/jcb-dataviewer>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
         
 * |OK_ICON| `KEGG - KEGG is a database resource for understanding high-level functions [...] <http://www.genome.jp/kegg/>`_
         
@@ -146,7 +146,7 @@ Climate+Weather
         
 * |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather [...] <https://aviationweather.gov/adds/dataserver>`_
         
-* |FIXME_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
+* |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_
         
 * |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
         
@@ -156,7 +156,7 @@ Climate+Weather
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_
         
-* |FIXME_ICON| `German-Meteorological-Service-CDC <https://www.dwd.de/EN/climate_environment/cdc/cdc.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
+* |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
         
@@ -164,7 +164,7 @@ Climate+Weather
         
 * |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
         
-* |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
+* |FIXME_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Bering-Sea-Climate.yml>`_]
         
 * |OK_ICON| `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
         
@@ -246,7 +246,7 @@ ComputerNetworks
         
 * |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
         
-* |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
+* |FIXME_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/MIRAGE-2019.yml>`_]
         
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
@@ -260,6 +260,8 @@ ComputerNetworks
     
 CyberSecurity
 -------------
+        
+* |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_
         
 * |OK_ICON| `Traffic and Log Data Captured During a Cyber Defense Exercise - This [...] <https://zenodo.org/record/3746129>`_
     
@@ -307,7 +309,7 @@ EarthScience
         
 * |OK_ICON| `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
         
-* |FIXME_ICON| `Earth Models <http://www.earthmodels.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Earth-Models.yml>`_]
+* |FIXME_ICON| `Earth Models <https://earthmodels.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Earth-Models.yml>`_]
         
 * |OK_ICON| `Global Wind Atlas - The Global Wind Atlas is a free, web-based [...] <https://globalwindatlas.info/>`_
         
@@ -484,7 +486,7 @@ GIS
         
 * |OK_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
         
-* |FIXME_ICON| `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Natural-Earth.yml>`_]
+* |FIXME_ICON| `Natural Earth - vectors and rasters of the world <https://www.naturalearthdata.com/downloads/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Natural-Earth.yml>`_]
         
 * |OK_ICON| `OpenAddresses <http://openaddresses.io/>`_
         
@@ -609,7 +611,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
+* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |OK_ICON| `Jail deaths in America - The U.S. government does not release jail by [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_
         
@@ -853,7 +855,7 @@ ImageProcessing
         
 * |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
-* |OK_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_
+* |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
