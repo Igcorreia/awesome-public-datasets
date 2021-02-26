@@ -185,7 +185,7 @@ Climate+Weather
 ComplexNetworks
 ---------------
         
-* |FIXME_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
+* |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
         
@@ -244,7 +244,7 @@ ComputerNetworks
         
 * |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
         
-* |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
         
 * |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
         
@@ -290,7 +290,7 @@ DataChallenges
         
 * |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
         
-* |OK_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
+* |FIXME_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Telecom-Italia-Big-Data-Challenge.yml>`_]
         
 * |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
         
@@ -422,6 +422,11 @@ Energy
         
 * |OK_ICON| `iAWE <http://iawe.github.io/>`_
     
+Entertainment
+-------------
+        
+* |OK_ICON| `Top Streamers on Twitch - This contains data of Top 1000 Streamers from [...] <https://www.kaggle.com/aayushmishra1512/twitchdata>`_
+    
 Finance
 -------
         
@@ -551,11 +556,11 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
+* |FIXME_ICON| `China <https://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
-* |FIXME_ICON| `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/DataBC.yml>`_]
+* |OK_ICON| `DataBC - data from the Province of British Columbia <https://www.data.gov.bc.ca/>`_
         
 * |OK_ICON| `Debt to the Penny - The Debt to the Penny dataset provides information [...] <https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny>`_
         
@@ -597,7 +602,7 @@ Government
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
-* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
+* |FIXME_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Houston-TX-US.yml>`_]
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
@@ -1215,7 +1220,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
@@ -1261,8 +1266,6 @@ SearchEngines
 -------------
         
 * |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
-        
-* |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
         
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
         
